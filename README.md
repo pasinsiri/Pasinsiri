@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pasinsiri
-- 👀 I’m a Data Scientist in a Consulting Firm, and I'm interested in Data Science and Investments
+- 👀 I’m a Data Analyst in a FinTech startup company, and I'm interested in Data Science and Investments
 - 🌱 I’m currently learning Investment Strategies, both Fundamental and Technical, along with Data-related topics, e.g. Machine Learning, ETL-related tools (Kafka, Sqoop, etc.).
 - 📫 How to reach me: pasin.sirirat@gmail.com
 
